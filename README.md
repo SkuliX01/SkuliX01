@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭I'm currently working On : Celestal Vision
-🌱 I'm Currenlt learning : Rust & Tensorflow
-🤝 I can assist you with : Python & C++
+<p>🔭I'm currently working On : Celestal Vision</p>
+<p>🌱 I'm Currenlt learning : Rust & Tensorflow</p>
+<p>🤝 I can assist you with : Python & C++</p>
 
 
 ## 🌐 Socials:
