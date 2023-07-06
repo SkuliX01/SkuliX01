@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Bartek from Poland<br><br>- 🔭 I’m student at high school<br>- 📚 I'm currently learning Python and Some C#<br>- ⚡ In my free time I Like going to gym and code some apps</p>
+<p align="left">I'm Bartek from Poland, I am 16 years old IT high school student. If you want help with python you can write to me on Twitter<br><br>- 🔭 I’m student at high school<br>- 📚 I'm currently learning Python and Some C#<br>- ⚡ In my free time I Like going to gym and code some apps</p>
 
 ###
 
