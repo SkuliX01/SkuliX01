@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on : Projects<br>🌱 I’m currently learning : Java and Flask<br>💬 Ask me about  : Python<br>⚡ Fun fact : I'm coding in light mode
+👯 I’m looking to collaborate on : Projects<br>🌱 I’m currently learning : Java and Django<br>💬 Ask me about  : Python<br>⚡ Fun fact : I'm coding in light mode
 
 
 ## 🌐 Socials:
