@@ -31,7 +31,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/SkuliX01/SkuliX01/output/snake.svg" alt="Snake animation" />
-
-###
