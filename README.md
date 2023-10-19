@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Java<br>🎯 Goals: Become Profesional Software Developer<br>🎲 Fun fact: I Code in Light Mode</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Java & Svelte<br>🎯 Goals: Become Profesional Software Developer<br>🎲 Fun fact: I Code in Light Mode</p>
 
 ###
 
