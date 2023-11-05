@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : ...<br>👯 I’m looking to collaborate on : Projects or Open Source<br>🌱 I’m currently learning : Java and Spring
+🔭 I’m currently working on : tail-styles.org<br>👯 I’m looking to collaborate on : Projects or Open Source<br>🌱 I’m currently learning : Java and Spring
 
 
 ## 🌐 Socials:
