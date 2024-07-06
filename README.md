@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : NoteShare<br>🌱 I’m currently learning : Rust
+🔭 I’m currently working on : Randomify.xyz<br>🌱 I’m currently learning : Rust
 
 
 # 💻 Tech Stack:
