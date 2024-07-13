@@ -1,6 +1,6 @@
 Hi There!👋
 -----
-Hi, I'm SkuliX: Backend Developer, Dog Lover and High School Student Based in Poland. I'm intrested in creating intresting coding projects involving a complex backend systems.
+Hi, I'm SkuliX: Backend Developer, Dog Lover and High School Student Based in Poland. I'm intrested in creating intresting coding projects involving creating a complex backend systems.
 
 My Knowledge: 
 =======
